@@ -1,4 +1,4 @@
-{% set version = "2.0.0dev106" %}
+{% set version = "2.0.0dev107" %}
 
 package:
   name: botocore
@@ -6,7 +6,7 @@ package:
 
 source:
   git_url: https://github.com/boto/botocore.git
-  git_rev: f606e8469826c8fb83be637c0f8fc9983455b54c
+  git_rev: 35e1ed057cae6f16e0ca0d2865ca6c0ec575a5cc
 
 build:
   number: 0
